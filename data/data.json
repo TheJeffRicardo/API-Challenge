@@ -1,0 +1,34 @@
+{
+    "laptop":[
+        {
+            "id": 1,
+            "brand": "Lenovo",
+            "serialNumber": "0712183489",
+            "userName": "luffysucksbubblegumfruits"
+        },
+        {
+            "id": 2,
+            "brand": "Apple",
+            "serialNumber": "0731893290",
+            "userName": "brandenwantstosmoochnaruto"
+        },
+        {
+            "id": 3,
+            "brand": "Mecer",
+            "serialNumber": "0616128493",
+            "userName": "timiiscoolbuthebehavingashyknees"
+        },
+        {
+            "id": 4,
+            "brand": "Del",
+            "serialNumber": "0638231697",
+            "userName": "thandoisawalkingcigarette"
+        },
+        {
+            "id": 5,
+            "brand": "HP",
+            "serialNumber": "0829183289",
+            "userName": "lindoeatsgrassathome"
+        }
+    ]
+}
